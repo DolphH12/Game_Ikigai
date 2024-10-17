@@ -1,0 +1,134 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Game World.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                11,
+                12
+            ],
+            "scale": 1.2634,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 349.4538546778534,
+                "y": 253.28478708247582
+            }
+        },
+        "Level-02.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5
+            ],
+            "scale": 0.9998,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 309.56191238247646,
+                "y": 249.04980996199242
+            }
+        },
+        "Level-03.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.0237,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 315.0337012796718,
+                "y": 189.50864511087235
+            }
+        },
+        "Level-04.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.997,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 318.45536609829486,
+                "y": 164.49348044132395
+            }
+        },
+        "Level-05.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.037578125,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 320.45779685264665,
+                "y": 184.08252390633234
+            }
+        },
+        "Level-Final.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.037578125,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 320.45779685264665,
+                "y": 184.08252390633234
+            }
+        },
+        "grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hills.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "object_grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 1.1368,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 342.6284306826179,
+                "y": 229.59183673469389
+            }
+        },
+        "water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/dolph.hincapie/Work/game_ikigai/assets/tiles_set",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "grass.tsx",
+        "untitled.tmx",
+        "water.tsx",
+        "hills.tsx",
+        "object_grass.tsx"
+    ],
+    "project": "mapa_taller.tiled-project",
+    "recentFiles": [
+        "object_grass.tsx",
+        "hills.tsx",
+        "water.tsx",
+        "grass.tsx",
+        "untitled.tmx",
+        "Game World.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
