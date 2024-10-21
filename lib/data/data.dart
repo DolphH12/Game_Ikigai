@@ -160,7 +160,7 @@ const Map<String, Map<String, dynamic>> data = {
         'Flexibilidad en la presentación de errores',
         'Mejora de la experiencia del usuario',
         'Control sobre la severidad de los errores'
-            'Reutilización y consistencia en el manejo de errores',
+        'Reutilización y consistencia en el manejo de errores',
         'Adaptabilidad según el entorno',
       ],
       'label_btn': 'Pasar de Nivel',
